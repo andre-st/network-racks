@@ -1,0 +1,20 @@
+Repository Name:
+
+network-racks
+
+
+Description:
+
+Planning a rack enclosure cabinet with network gear using a 3D model, which
+helps visualize space problems, e.g., in the rear. Also OpenSCAD learning
+opportunity.
+
+
+Website:
+
+-
+
+
+Topics:
+
+
