@@ -1,7 +1,7 @@
 // OpenSCAD-Modell Netzwerkschrank/Wandverteiler mit Equipment
 // Version: 2013-08-03
 //
-// Lizenz: CC-SA
+// Lizenz: MIT
 // Autor:  https://datakadabra.wordpress.com
 //
 //
