@@ -47,3 +47,7 @@ Kabel (Strom, Daten) auf 4 Farben beschränken: Häufigste Kabel in der Gear-Ein
 
 ² Hier steht nicht die Übertragung von Information an sich im Vordergrund, sondern physische Medien, die diese Übertragung ermöglichen. Teil der Baustruktur meint Teil der _physischen_ Beschreibung der Funktionsstruktur unserer „Wohnmaschine“. Grau erinnert hier an Mauerwerk, Beton und Unterputz, an den Blick auf die nackten Hausfundamente, durch die sich unsere Kabel ziehen.
 
+
+
+![Screenshot](screenshot-scad-2013.08.28-002650.png)
+
