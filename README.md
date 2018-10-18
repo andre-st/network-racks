@@ -2,8 +2,9 @@
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2013.svg)
 
+<img src="https://raw.githubusercontent.com/andre-st/network-racks/master/screenshot-20130826.png" width="435" height="349" /><img src="https://raw.githubusercontent.com/andre-st/network-racks/master/screenshot-20130827.png" width="435" height="349" />
 
-![Screenshot](https://datakadabra.files.wordpress.com/2015/09/screenshot-scad-2013-08-26-002703.png?w=435&h=349) ![Screenshot](https://datakadabra.files.wordpress.com/2015/09/screenshot-scad-2013-08-27-005807.png?w=435&h=349)
+
 
 ## Textual Computer-Aided Design
 
