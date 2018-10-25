@@ -29,6 +29,8 @@ und seine grafische Darstellung.
 Das Tool kommt mit eigenem Texteditor, erlaubt dank Dateiüberwachung aber auch
 externe Editoren wie Vim (s. Screenshots).
 
+![Screenshot](screenshot-scad-2013.08.28-002650.png)
+
 
 ## Technik aus zweiter Hand
 
@@ -50,5 +52,4 @@ Kabel (Strom, Daten) auf 4 Farben beschränken: Häufigste Kabel in der Gear-Ein
 
 
 
-![Screenshot](screenshot-scad-2013.08.28-002650.png)
 
