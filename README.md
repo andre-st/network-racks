@@ -45,6 +45,20 @@ Je bunter, umso zusammengeworfener wirkt es. Ideal: wie aus einem Guss. Wandrack
 ￼
 Kabel (Strom, Daten) auf 4 Farben beschränken: Häufigste Kabel in der Gear-Einheitsfarbe (grau), Hauptleitungen stechen dadurch in Signalfarbe (rot) hervor, etwa Kabel vom HÜP/TAE1-Port am Patchpanel oder Uplinks/Trunk-Leitungen. Kabellängen mind. 1m bzw. Rackhöhe, kleinere Kabel vereiteln einen Umbau im Rack oder verunmöglichen andere Verwendungen. Rackspace füllt sich (Parkinson’s law).
 
+## Alternativen
+Matrix:
+ ```text
+         G1   G2   G3   G4   G5
+   TIEF  120  052  122  041  090
+R1 100   no   -    no   -    -
+R2 120   -    -    no   -    -
+R2 130   -    -    -    -    -
+ ```
+
+Solver: Liste mit Maßen und Preisen der Geräte und Schränke, dann entsprechend optimale Kombination lösen lassen 
+
+
+
 ---
 ¹ Backplane-Kapazität sollte _mindestens_ so hoch sein wie der Durchsatz aller Ports zusammen
 
