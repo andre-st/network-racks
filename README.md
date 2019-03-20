@@ -45,7 +45,7 @@ Je bunter, umso zusammengeworfener wirkt es. Ideal: wie aus einem Guss. Wandrack
 ￼
 Kabel (Strom, Daten) auf 4 Farben beschränken: Häufigste Kabel in der Gear-Einheitsfarbe (grau), Hauptleitungen stechen dadurch in Signalfarbe (rot) hervor, etwa Kabel vom HÜP/TAE1-Port am Patchpanel oder Uplinks/Trunk-Leitungen. Kabellängen mind. 1m bzw. Rackhöhe, kleinere Kabel vereiteln einen Umbau im Rack oder verunmöglichen andere Verwendungen. Rackspace füllt sich (Parkinson’s law).
 
-## Alternativen
+## Mögliche Alternativen
 Matrix:
  ```text
          G1   G2   G3   G4   G5
@@ -57,7 +57,8 @@ R2 130   -    -    -    -    -
 
 Solver: 
 ```text
-Liste mit Maßen und Preise der in Frage kommenden Geräte und Schränke, dann entsprechend optimale Kombination lösen lassen 
+Liste mit Maßen und Preise der in Frage kommenden Geräte und Schränke, 
+dann entsprechend optimale Kombination lösen lassen 
 ```
 
 Rack-Diagram-Software:
