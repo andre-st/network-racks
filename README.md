@@ -55,7 +55,15 @@ R2 120   -    -    no   -    -
 R2 130   -    -    -    -    -
  ```
 
-Solver: Liste mit Maßen und Preise der in Frage kommenden Geräte und Schränke, dann entsprechend optimale Kombination lösen lassen 
+Solver: 
+```text
+Liste mit Maßen und Preise der in Frage kommenden Geräte und Schränke, dann entsprechend optimale Kombination lösen lassen 
+```
+
+Rack-Diagram-Software:
+```
+oft nur 2D und Front
+```
 
 
 
