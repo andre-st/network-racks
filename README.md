@@ -2,7 +2,7 @@
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2013.svg)
 
-<img src="https://raw.githubusercontent.com/andre-st/network-racks/master/screenshot-20130826.png" width="435" height="349" /><img src="https://raw.githubusercontent.com/andre-st/network-racks/master/screenshot-20130827.png" width="435" height="349" />
+<img src="https://raw.githubusercontent.com/andre-st/network-racks/master/screenshot-20130826.png" width="430" height="344" /><img src="https://raw.githubusercontent.com/andre-st/network-racks/master/screenshot-20130827.png" width="430" height="344" />
 
 
 
