@@ -62,7 +62,7 @@ Liste mit Maßen und Preise der in Frage kommenden Geräte und Schränke, dann e
 
 Rack-Diagram-Software:
 ```
-oft nur 2D und Front, oder Software für Rechenzentrum
+oft nur 2D und Front, oder Software für Rechenzentrum; umständlich zu erweitern
 ```
 
 
